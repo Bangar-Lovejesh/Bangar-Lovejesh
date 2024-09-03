@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- Current Software Developer intern at RBC
+- Used to be a current Software Developer intern at FedEx
+- Current 3rd year student at Yorku
+- making projects for shits and giggles
