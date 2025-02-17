@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 
 - Current Software Developer intern at RBC 🏦
 - Used to be a current Software Developer intern at FedEx 📦
-- Current 3rd year student at Yorku 🏫
+- Current 4th year student at Yorku 🏫
 - Making projects for shits and giggles 🙂
