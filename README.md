@@ -15,7 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- Current Software Developer intern at Shopify
-- Used to be a current Software Developer intern at FedEx and RBC 
-- Current 4th year student at Yorku 
-- Making projects for shits and giggles 
+# Shopify
